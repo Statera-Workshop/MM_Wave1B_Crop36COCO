@@ -1,3 +1,10 @@
+<!-- PAI-SG-LINKS:BEGIN -->
+## Project Links
+
+- [Project Portal](https://statera-workshop.github.io/#repo-mm_wave1b_crop36coco)
+- [Statera Workshop Portal](https://statera-workshop.github.io/)
+<!-- PAI-SG-LINKS:END -->
+
 # MM_Wave1B_Crop36COCO
 
 **Image-text contrastive convergence on Crop36-Text and COCO - PAI-SG Multimodal Wave 1B**
